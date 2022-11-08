@@ -1,6 +1,6 @@
 # ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition
 
-A. S. Baslamisli\*, P Das\*, H. A. Le, S. Karaoglu, T. Gevers [ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition](https://arxiv.org/abs/1912.04023). <sub><sup>\* denotes equal contribution.</sup></sub>
+A. S. Baslamisli\*, P. Das\*, H. A. Le, S. Karaoglu, T. Gevers [ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition](https://arxiv.org/abs/1912.04023). <sub><sup>\* denotes equal contribution.</sup></sub>
 
 We provide the tensorflow implementation of "ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition", IJCV2021. The provided models were tested with 1.10.1.
 
