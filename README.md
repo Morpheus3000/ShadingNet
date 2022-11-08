@@ -28,7 +28,7 @@ python evaluate.py
 
 ## Citation
 Please cite the paper if it is useful in your research:
-
+```
 @article{Baslamisli\_Das\_2021,
  author = {A. ~S. Baslamisli and P. Das and H. ~A. Le and S. Karaoglu and T. Gevers},
  title = {ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition},
@@ -39,5 +39,4 @@ Please cite the paper if it is useful in your research:
  doi = {https://doi.org/10.1007/s11263-021-01477-5},
  year = 2021
 }
-
-
+```
