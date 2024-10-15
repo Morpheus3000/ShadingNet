@@ -30,7 +30,7 @@ python evaluate.py
 Please cite the paper if it is useful in your research:
 ```
 @article{Baslamisli\_Das\_2021,
- author = {A. ~S. Baslamisli and P. Das and H. ~A. Le and S. Karaoglu and T. Gevers},
+ author = {A. ~S. Baslamisli* and P. Das* and H. ~A. Le and S. Karaoglu and T. Gevers},
  title = {ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition},
  journal = {International Journal of Computer Vision},
  volume = {129},
